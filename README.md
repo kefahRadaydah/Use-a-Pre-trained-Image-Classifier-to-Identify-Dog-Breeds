@@ -30,7 +30,6 @@ Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/
 ├── dognames.txt                     # List of valid dog breed names
 └── README.md                        # This file
 
-
 ## ⚙️ Workflow Summary
 - Label Extraction
 - Extracts pet labels from image filenames.
