@@ -15,10 +15,12 @@ This project is part of the AI Programming with Python Nanodegree from Udacity. 
 - NumPy, argparse: for data handling and CLI support
   
 ## 📁 Project Structure
+```
 Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/
 │
 ├── pet_images/                      # Dataset of pet images
 ├── uploaded_images/                 # Images for testing
+│
 ├── check_images.py                  # Main script for classification
 ├── classifier.py                    # Loads and applies pre-trained models
 ├── get_input_args.py                # Parses command-line arguments
@@ -27,8 +29,10 @@ Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/
 ├── adjust_results4_isadog.py        # Flags whether labels are dogs
 ├── calculates_results_stats.py      # Computes classification statistics
 ├── print_results.py                 # Displays results summary
+│
 ├── dognames.txt                     # List of valid dog breed names
-└── README.md                        # This file
+└── README.md                        # Project documentation
+```
 
 ## ⚙️ Workflow Summary
 - Label Extraction
